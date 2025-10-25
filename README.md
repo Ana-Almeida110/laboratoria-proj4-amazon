@@ -78,6 +78,7 @@ A análise busca:
 ### Links de Interesse
 
 - [Ficha Técnica (Notion)](https://www.notion.so/Projeto-4-28b8dc77aa2d802fb9f6f38aab7577e6)
-- [Report](https://drive.google.com/file/d/100QfclN_LkbvhlUVMjvyCjVYpclr9inz/view?usp=drive_link)
+- [Report](https://drive.google.com/file/d/1yw1U5xSjeeBIsfkkPck5Ol6UqYmJXna1/view?usp=sharing)
+- [Google Colab](https://colab.research.google.com/drive/1VWT5ANnapTZ1RbqCHe5oT26vp52AxK8m?usp=sharing)
 - [Apresentação (Loom)](https://www.loom.com/share/aa14361b04644b0eae6df82a2aba5657?sid=38775f96-2eea-45fa-b2db-344fbf704879)
 - [Apresentação (Slides)](https://docs.google.com/presentation/d/1ZfCUU_xbx7fty8sxzTMI5r7eYuw8M88l/edit?usp=drive_link&ouid=112893683117403532765&rtpof=true&sd=true)
